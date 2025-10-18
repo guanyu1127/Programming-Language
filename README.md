@@ -21,4 +21,8 @@
 ### - HW3 [番茄鐘任務管理器（Google Sheet + Gradio）google表單（作業三）](https://docs.google.com/spreadsheets/d/1BznyNrx-H64oYPuZNliRvkuXwZwUhMASJTmyfJ2qWPI/edit?usp=sharing)
 ### - HW3 [番茄鐘任務管理器（Google Sheet + Gradio）網站實作照（作業三）](https://drive.google.com/drive/folders/1B6q_1jDZRTwpkaqmRE1bmoSdumpwlkrZ?usp=sharing)
 
+### - HW4 [PTT電影版輿情分析機器人（Google Sheet + Gradio）程式碼（作業四）](https://github.com/guanyu1127/Programming-Language/blob/main/HW4.ipynb)
+### - HW4 [PTT電影版輿情分析機器人（Google Sheet + Gradio）google表單（作業四）](https://docs.google.com/spreadsheets/d/1itjmqEqqiuww8Emq03eiXy536nicteVA2MBPHVwhD6g/edit?usp=sharing)
+### - HW4 [PTT電影版輿情分析機器人（Google Sheet + Gradio）網站實作照（作業四）](https://drive.google.com/drive/folders/1wfENPPejeQxuF4yPd70i1rMbULxsLA9t?usp=drive_link)
+
 ## 專題連結區
