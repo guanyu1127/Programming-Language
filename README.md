@@ -29,6 +29,6 @@
 ### - HW5 [東京美食地圖（Google Sheet + Gradio）表單（作業五）](https://docs.google.com/spreadsheets/d/1xUtKgD13TWQ94cnspBCublp-_LZm_knEor2Kx_uf8u4/edit?usp=sharing)
 ### - HW5 [東京美食地圖（Google Sheet + Gradio）實作照（作業五）](https://drive.google.com/drive/folders/1i90kHFFaskDw_N-ABrB5LiPpYddeSsCS?usp=drive_link)
 
-### - HW6 [習慣幫手（Google Sheet + Gradio）程式碼（作業六）](https://github.com/guanyu1127/Programming-Language/blob/main/HW6.ipynb)
-### - HW6 [習慣幫手（Google Sheet + Gradio）表格（作業六）](https://docs.google.com/spreadsheets/d/1pMxPxJPXe__0THBZlhqr6nmFSZzIOhHao2tl1JMXvg0/edit?usp=sharing)
+### - HW6 [習慣幫手程式碼（作業六）](https://github.com/guanyu1127/Programming-Language/blob/main/HW6.ipynb)
+### - HW6 [習慣幫手表格（作業六）](https://docs.google.com/spreadsheets/d/1pMxPxJPXe__0THBZlhqr6nmFSZzIOhHao2tl1JMXvg0/edit?usp=sharing)
 ## 專題連結區
