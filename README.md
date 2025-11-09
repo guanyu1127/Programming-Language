@@ -25,4 +25,8 @@
 ### - HW4 [PTT電影版輿情分析機器人（Google Sheet + Gradio）google表單（作業四）](https://docs.google.com/spreadsheets/d/1itjmqEqqiuww8Emq03eiXy536nicteVA2MBPHVwhD6g/edit?usp=sharing)
 ### - HW4 [PTT電影版輿情分析機器人（Google Sheet + Gradio）網站實作照（作業四）](https://drive.google.com/drive/folders/1wfENPPejeQxuF4yPd70i1rMbULxsLA9t?usp=drive_link)
 
+### - HW5 [東京美食地圖（Google Sheet + Gradio）程式碼（作業五）](https://github.com/guanyu1127/Programming-Language/blob/main/HW5.ipynb)
+### - HW5 [東京美食地圖（Google Sheet + Gradio）表單（作業五）](https://docs.google.com/spreadsheets/d/1xUtKgD13TWQ94cnspBCublp-_LZm_knEor2Kx_uf8u4/edit?usp=sharing)
+### - HW5 [東京美食地圖（Google Sheet + Gradio）實作照（作業五）](https://drive.google.com/drive/folders/1i90kHFFaskDw_N-ABrB5LiPpYddeSsCS?usp=drive_link)
+
 ## 專題連結區
