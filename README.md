@@ -33,4 +33,4 @@
 ### - HW6 [習慣幫手表格（作業六）](https://docs.google.com/spreadsheets/d/1pMxPxJPXe__0THBZlhqr6nmFSZzIOhHao2tl1JMXvg0/edit?usp=sharing)
 ## 專題連結區
 
-### -  [期末專案](https://youtu.be/Yq0JbkOaSQU)
+### -  [期末專案提案](https://youtu.be/Yq0JbkOaSQU)
